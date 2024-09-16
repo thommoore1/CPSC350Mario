@@ -1,0 +1,3113 @@
+This is level: 1
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+c c x c c c x m x m 
+x k c x x x x m x c 
+c c c m m c g m m x 
+
+This is level: 2
+x m g x c c x g c x 
+c m x x m k c m c m 
+m c x x x m c c m k 
+x c x c x m x x x x 
+c c x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+This is level: 3
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x m c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m m b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 1
+Mario's location is 3, 8
+Mario's power level before moving is 0
+Mario has spawned in
+Mario has 100 lives
+Mario has 0 coins
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+c c H c c c x m x m 
+x k c x x x x m x c 
+c c c m m c g m m x 
+
+Current level is 1
+Mario's location is 2, 8
+Mario's power level before moving is 0
+Mario has got a coin
+Mario has 100 lives
+Mario has 1 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+c H x c c c x m x m 
+x k c x x x x m x c 
+c c c m m c g m m x 
+
+Current level is 1
+Mario's location is 2, 9
+Mario's power level before moving is 0
+Mario killed a goomba
+Mario has 100 lives
+Mario has 1 coins
+Mario moved down
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+c x x c c c x m x m 
+x H c x x x x m x c 
+c c c m m c g m m x 
+
+Current level is 1
+Mario's location is 1, 9
+Mario's power level before moving is 0
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 1 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+c x x c c c x m x m 
+H x c x x x x m x c 
+c c c m m c g m m x 
+
+Current level is 1
+Mario's location is 1, 8
+Mario's power level before moving is 0
+Mario has got a coin
+Mario has 100 lives
+Mario has 2 coins
+Mario moved up
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+H x x c c c x m x m 
+x x c x x x x m x c 
+c c c m m c g m m x 
+
+Current level is 1
+Mario's location is 1, 9
+Mario's power level before moving is 0
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 2 coins
+Mario moved down
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+H x c x x x x m x c 
+c c c m m c g m m x 
+
+Current level is 1
+Mario's location is 1, 10
+Mario's power level before moving is 0
+Mario has got a coin
+Mario has 100 lives
+Mario has 3 coins
+Mario moved down
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+x x c x x x x m x c 
+H c c m m c g m m x 
+
+Current level is 1
+Mario's location is 1, 9
+Mario's power level before moving is 0
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 3 coins
+Mario moved up
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+H x c x x x x m x c 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 10, 9
+Mario's power level before moving is 0
+Mario has got a coin
+Mario has 100 lives
+Mario has 4 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+x x c x x x x m x H 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 9, 9
+Mario's power level before moving is 0
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 4 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+x x c x x x x m H x 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 8, 9
+Mario's power level before moving is 0
+Mario got a mushroom
+Mario has 100 lives
+Mario has 4 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+x x c x x x x H x x 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 7, 9
+Mario's power level before moving is 1
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 4 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+x x c x x x H x x x 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 6, 9
+Mario's power level before moving is 1
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 4 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c c x m x m 
+x x c x x H x x x x 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 6, 8
+Mario's power level before moving is 1
+Mario has got a coin
+Mario has 100 lives
+Mario has 5 coins
+Mario moved up
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c H x m x m 
+x x c x x x x x x x 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 6, 9
+Mario's power level before moving is 1
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 5 coins
+Mario moved down
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x H x x x x 
+x c c m m c g m m x 
+
+Current level is 1
+Mario's location is 6, 10
+Mario's power level before moving is 1
+Mario has got a coin
+Mario has 100 lives
+Mario has 6 coins
+Mario moved down
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c m m H g m m x 
+
+Current level is 1
+Mario's location is 5, 10
+Mario's power level before moving is 1
+Mario got a mushroom
+Mario has 100 lives
+Mario has 6 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c m H x g m m x 
+
+Current level is 1
+Mario's location is 4, 10
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 6 coins
+Mario movedleft
+c m c x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c H x x g m m x 
+
+Current level is 1
+Mario's location is 4, 1
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 6 coins
+Mario moved down
+c m c H x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 1
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 7 coins
+Mario movedleft
+c m H x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 1
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 7 coins
+Mario moved right
+c m x H x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 10
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 7 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c c H x x g m m x 
+
+Current level is 1
+Mario's location is 3, 10
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 8 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x c x x x x x x x 
+x c H x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 9
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 9 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x H x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x H x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x H x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x H c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x x H x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x x x c c x x m x m 
+x H x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c k x g m x x m m x 
+x H x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 7
+Mario's power level before moving is 2
+Mario killed a goomba
+Mario has 100 lives
+Mario has 9 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x m x x c x m c x 
+c H x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m H m x x c x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 6
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 9 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x H x x c x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x H x c x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 5, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 9 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x H c x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 6
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 10 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x H x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x x x m c x 
+c x x g m H x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x H x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 5, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x H x x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x H x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x x H m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x x x m c x 
+c x x g m x H m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x x x m c x 
+c x x g m H x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 10 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g c k x k c 
+m x x x x H x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 5
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 11 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g H k x k c 
+m x x x x x x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 5
+Mario's power level before moving is 2
+Mario killed a goomba
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x H x k c 
+m x x x x x x m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x H m c x 
+c x x g m x x m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x H m m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 7
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x H m x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 7
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x x H x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x H x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x H x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x H m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x H x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x H m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x H x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g H x x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x H x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g H x x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x H x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x H m c x 
+c x x g m x x x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 7, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x H x x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x H x x 
+x x x c c x x m x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 8
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x H x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x H x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x x H x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x x x x 
+x x x c c x x x H m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 11 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m c x 
+c x x g m x x x H x 
+x x x c c x x x x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 6
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 12 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m H x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario lost to a koopa
+Mario has 100 lives
+Mario has 12 coins
+Mario moved to stay put
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x m H x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 6
+Mario's power level before moving is 1
+Mario got a mushroom
+Mario has 100 lives
+Mario has 12 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x H x x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 8, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 12 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x H x x 
+x x x c c x x x x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 12 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x x H x 
+x x x c c x x x x m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 12 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x x x x 
+x x x c c x x x H m 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 9, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 12 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x x H x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 12 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x x x x 
+x x x c c x x x x m 
+x x x x x x x x x H 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 8
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 12 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x x x x 
+x x x c c x x x x H 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 12 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+c x x g m x x x x H 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 7
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+m x x x x x x x x x 
+H x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 6
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 13 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+H x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+H x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+H x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x H x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+H x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x H 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x H 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x H 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x H 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+H x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+H x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x H 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x H 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 10, 10
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m H 
+
+Current level is 1
+Mario's location is 1, 10
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+H c x x x x g m m x 
+
+Current level is 1
+Mario's location is 1, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+H x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x x c c x x x x x 
+x H x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 2, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x H x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x g m x x x x x 
+x x H c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 3, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 13 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x H g m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 7
+Mario's power level before moving is 2
+Mario killed a goomba
+Mario has 100 lives
+Mario has 13 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x H m x x x x x 
+x x x c c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 8
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x H c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x H x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 10
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x H x x g m m x 
+
+Current level is 1
+Mario's location is 4, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x H x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 8
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x H c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 4, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x H x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 5, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x H x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 9
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x H x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 10
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x H g m m x 
+
+Current level is 1
+Mario's location is 6, 1
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x H c c x c 
+c m x g m x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g m H x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 5, 2
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 14 coins
+Mario movedleft
+c m x x x x c c x c 
+c m x g H x x c x x 
+x c c x x m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 5, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g x x x c x x 
+x c c x H m c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 3
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 14 coins
+Mario moved right
+c m x x x x c c x c 
+c m x g x x x c x x 
+x c c x x H c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g x x x c x x 
+x c c x x x c w x g 
+x k c m b H m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved up
+c m x x x x c c x c 
+c m x g x x x c x x 
+x c c x x H c w x g 
+x k c m b x m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 6, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 14 coins
+Mario moved down
+c m x x x x c c x c 
+c m x g x x x c x x 
+x c c x x x c w x g 
+x k c m b H m c m x 
+x x c c g x x x k c 
+x x x x x x x x x x 
+x x x x m x x x x x 
+x x x x c x x x x x 
+x x x x x x x x x x 
+x c x x x x g m m x 
+
+Current level is 1
+Mario's location is 5, 4
+Mario's power level before moving is 2
+Mario killed a boss
+Mario has 100 lives
+Mario has 14 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x m k c m c m 
+m c x x x m c c m k 
+x c x c x m x x x x 
+c c H g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 2, 5
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 15 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x m k c m c m 
+m c x x x m c c m k 
+x c x c x m x x x x 
+c H x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 2, 4
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 16 coins
+Mario moved up
+x m g x c c x g c x 
+c m x x m k c m c m 
+m c x x x m c c m k 
+x H x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 2, 3
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 17 coins
+Mario moved up
+x m g x c c x g c x 
+c m x x m k c m c m 
+m H x x x m c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 3, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 17 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x m k c m c m 
+m x H x x m c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 3, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 17 coins
+Mario moved up
+x m g x c c x g c x 
+c m H x m k c m c m 
+m x x x x m c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 4, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 17 coins
+Mario moved right
+x m g x c c x g c x 
+c m x H m k c m c m 
+m x x x x m c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 2
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 17 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x H k c m c m 
+m x x x x m c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 2
+Mario's power level before moving is 2
+Mario killed a goomba
+Mario has 100 lives
+Mario has 17 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x H c m c m 
+m x x x x m c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 3
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 17 coins
+Mario moved down
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x H c c m k 
+x x x c x m x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 4
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 100 lives
+Mario has 17 coins
+Mario moved down
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x c x H x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 17 coins
+Mario moved down
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x c x x x x x x 
+c x x g c H c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 17 coins
+Mario moved up
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x c x H x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 17 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x c H x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 4, 4
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 18 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x H x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 3, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x H x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 2, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x H x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 1, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+H x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 2, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x H x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 3, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x H x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 4, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x H x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 4, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved up
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x H x x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x H x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x x H c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario movedleft
+x m g x c c x g c x 
+c m x x x x c m c m 
+m x x x H x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved up
+x m g x c c x g c x 
+c m x x H x c m c m 
+m x x x x x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 100 lives
+Mario has 18 coins
+Mario moved right
+x m g x c c x g c x 
+c m x x x H c m c m 
+m x x x x x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 6, 1
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 100 lives
+Mario has 19 coins
+Mario moved up
+x m g x c H x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 1
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 101 lives
+Mario has 0 coins
+Mario movedleft
+x m g x H x x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x w x c x c x 
+
+Current level is 2
+Mario's location is 5, 10
+Mario's power level before moving is 2
+Mario warped to the next level
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g x x x x g c x 
+c m x x x x c m c m 
+m x x x x x c c m k 
+x x x x x x x x x x 
+c x x g c x c x m c 
+m g x x c c x x c c 
+x c m c x m k c x m 
+x m c x m c k m b x 
+g m k x x c c x m x 
+m c x x H x c x c x 
+
+Current level is 3
+Mario's location is 3, 8
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x m c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m H b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x m c c x g x x x 
+c x x x x m x x m m 
+c c H c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x m c c x g x x x 
+c x H x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 7
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 0 coins
+Mario moved down
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x m c c x g x x x 
+c x x x x m x x m m 
+c c H c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x m c c x g x x x 
+c x H x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 5
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m m m g x m m x g 
+c x H c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 4
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 101 lives
+Mario has 0 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x m H m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 4
+Mario's power level before moving is 2
+Mario got a mushroom
+Mario has 101 lives
+Mario has 0 coins
+Mario movedleft
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x H x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 1, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 0 coins
+Mario movedleft
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+H x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 0 coins
+Mario moved right
+x m g c c x m c c m 
+x c k c x c x m c x 
+x c m x x k k x k x 
+x H x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 3
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 101 lives
+Mario has 1 coins
+Mario moved up
+x m g c c x m c c m 
+x c k c x c x m c x 
+x H m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 2
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 101 lives
+Mario has 2 coins
+Mario moved up
+x m g c c x m c c m 
+x H k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 1, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario movedleft
+x m g c c x m c c m 
+H x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 2
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved right
+x m g c c x m c c m 
+x H k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved down
+x m g c c x m c c m 
+x x k c x c x m c x 
+x H m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 1, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario movedleft
+x m g c c x m c c m 
+x x k c x c x m c x 
+H x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 3
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved right
+x m g c c x m c c m 
+x x k c x c x m c x 
+x H m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 4
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved down
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x H x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 2, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved down
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c H x c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 5
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved right
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x H c c x g x x x 
+c x x x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 3, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved down
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x H x x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 4, 6
+Mario's power level before moving is 2
+Mario moved to a blank tile
+Mario has 101 lives
+Mario has 2 coins
+Mario moved right
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x H x m x x m m 
+c c x c c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 4, 7
+Mario's power level before moving is 2
+Mario has got a coin
+Mario has 101 lives
+Mario has 3 coins
+Mario moved down
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x H c c m x x c 
+c m x b x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Current level is 3
+Mario's location is 4, 8
+Mario's power level before moving is 0
+Mario killed a boss
+Mario has 100 lives
+Mario has 3 coins
+Mario moved down
+x m g c c x m c c m 
+x x k c x c x m c x 
+x x m x x k k x k x 
+x x x m g x m m x g 
+c x x c c x g x x x 
+c x x x x m x x m m 
+c c x x c c m x x c 
+c m x H x c m c c k 
+x x x m c x m x c x 
+c c g c x x x c x c 
+
+Mario wins
+It took 171 turns to get here
